@@ -1,6 +1,4 @@
-### Hi there 👋
-
-🔭 I’m currently pursuing  M.Tech in Data Science
+- 🔭 I’m currently pursuing  M.Tech in Data Science
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🤔 I’m looking for help in Deep Learning & Computer Vision
