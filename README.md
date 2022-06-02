@@ -1,5 +1,5 @@
 - 🔭 I’m currently pursuing  M.Tech in Data Science
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m interested in Machine Learning, Deep Learning and Computer Vision 
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🤔 I’m looking for help in Deep Learning & Computer Vision
 - 💬 Ask me about ...
